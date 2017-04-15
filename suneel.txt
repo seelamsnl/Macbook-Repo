@@ -5,3 +5,6 @@ excited to test this attempt.
 great it is working with Macbook!!
 
 change from the branch.
+
+finally made the pull request from the pc and able to re-obtain the access
+on the repository from the pc.
