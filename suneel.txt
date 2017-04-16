@@ -12,3 +12,5 @@ on the repository from the pc.
 
 decided to create a branch parallel to the Master so there will be a
 possibility to compare.
+
+Made changes from the local repository Branch..**
